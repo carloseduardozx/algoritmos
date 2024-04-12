@@ -1,7 +1,6 @@
 programa {
   funcao inicio() {
-
-    //Declaração de variáveis
+      //Declaração de variáveis
     cadeia n1, f2
     real s3, s4
     
@@ -18,6 +17,5 @@ programa {
 
     //Saída
     escreva("Nome do funcionário: ", n1,", Função do funcionário: ", f2, ", Novo slário do funcionário: ", s4)
-
   }
 }
